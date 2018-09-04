@@ -1,0 +1,6 @@
+[project]
+ignore = .git
+
+[cxx]
+cxxflags = -nostdinc 
+untracked_headers = error
